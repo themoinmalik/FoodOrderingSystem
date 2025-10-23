@@ -11,7 +11,7 @@
     <groupId>org.onlinefood</groupId>
     <artifactId>notification-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-<!--    <name>notification-service</name>-->
+    <name>notification-service</name>
     <description>Notification service for Online Food Platform</description>
 
     <properties>
