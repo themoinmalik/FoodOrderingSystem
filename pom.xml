@@ -1,0 +1,25 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+ https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.onlinefood</groupId>
+    <artifactId>food-ordering-system</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>AiService</module>
+        <module>api-gateway</module>
+        <module>Eureka-Server</module>
+        <module>menu-service</module>
+        <module>notification-service</module>
+        <module>order-service</module>
+        <module>restaurant-service</module>
+        <module>user-service</module>
+    </modules>
+
+</project>
